@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://confusedrobo.github.io/idiosync-portfolio/) 👋
+### Hi there, I'm [Confused!](https://confusedrobo.github.io/idiosync-portfolio/) 👋
 
 <br />
 
