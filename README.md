@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hey there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 
 - 🔭 I’m currently working on [jdbc-automation-library](https://github.com/ConfusedRobo/emotions-love-jdbcsql-automation)
 - 🌱 I’m currently learning Python and JSP/JPA
