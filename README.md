@@ -1,4 +1,4 @@
-### Hi there, I'm [Confused!](https://confusedrobo.github.io/idiosync-portfolio/) a data structure nerd 👋
+### Hi there, I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) 👋
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
 Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
