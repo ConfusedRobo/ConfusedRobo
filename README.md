@@ -19,5 +19,6 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 <br/>
 
 <img src="https://wakatime.com/share/@ConfusedRobo/7ed1255d-c1fb-475e-b3eb-3ceb056fb3ab.svg">
-
-###### ...psst! I also know Vim (▀̿Ĺ̯▀̿ ̿)
+## **Note**
+- The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
+###### \*psst\* \*psst\* I also know Vim (▀̿Ĺ̯▀̿ ̿)
