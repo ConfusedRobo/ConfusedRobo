@@ -1,8 +1,8 @@
-### Hi there, I'm [Confused!](https://confusedrobo.github.io/idiosync-portfolio/) 👋
+### Hi there, I'm [Confused!](https://confusedrobo.github.io/idiosync-portfolio/) 👋 a data structure nerd
 
 <br />
 
-Hey there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
+Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 
 - 🔭 I’m currently working on [jdbc-automation-library](https://github.com/ConfusedRobo/emotions-love-jdbcsql-automation)
 - 🌱 I’m currently learning Python and JSP/JPA
