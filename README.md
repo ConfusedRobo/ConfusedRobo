@@ -15,4 +15,5 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 &nbsp;&nbsp;
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
 <br/>
+<br/>
 [![wMy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
