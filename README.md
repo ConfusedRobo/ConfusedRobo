@@ -1,4 +1,4 @@
-### Hi there, I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) 👋
+### Howdy partner! I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) btw 👋
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
 Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
