@@ -17,4 +17,4 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 <br/>
 [![wMy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
 
-...psst! I also know Vim ![image](https://user-images.githubusercontent.com/74067540/114003899-c517c200-987b-11eb-8218-ecb576349003.png)
+...psst! I also know Vim (▀̿Ĺ̯▀̿ ̿)
