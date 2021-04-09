@@ -24,5 +24,4 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 - The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
 
 <br />
-![](https://komarev.com/ghpvc/?username=ConfusedRobo&color=ff69b4)
 ###### \*psst\* \*psst\* I also know Vim (▀̿Ĺ̯▀̿ ̿)
