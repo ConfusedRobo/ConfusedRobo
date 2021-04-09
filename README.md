@@ -9,7 +9,6 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 
 <br />
 <br />
-![](https://komarev.com/ghpvc/?username=ConfusedRobo&color=ff69b4)
 
 [![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,5 +24,5 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 - The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
 
 <br />
-
+![](https://komarev.com/ghpvc/?username=ConfusedRobo&color=ff69b4)
 ###### \*psst\* \*psst\* I also know Vim (▀̿Ĺ̯▀̿ ̿)
