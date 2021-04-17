@@ -8,9 +8,8 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 - 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
 
 <br />
-<img style="width: 20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical" />
-&nbsp;
-<img style="width: 25.4%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
+<img style="width: 20.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical" />
+<img style="width: 26.107%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
 <br/>
 <img style="width: 47.3%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
 <br/>
