@@ -8,17 +8,15 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 - 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
 
 <br />
-<br />
-
-[![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
+<img style="width: 28.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
 <br/>
-<br/>
-[![wMy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical)](https://github.com/ConfusedRobo/github-readme-stats)
+<img style="width: 65.3%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
 <br/>
 
-<img src="https://wakatime.com/share/@ConfusedRobo/65019ba1-34d9-45d4-a47b-e2edcfbcff72.svg">
+<img style="width: 32.5%" src="https://wakatime.com/share/@ConfusedRobo/65019ba1-34d9-45d4-a47b-e2edcfbcff72.svg">
+<img style="width: 32.5%"src="https://wakatime.com/share/@ConfusedRobo/c61e86ca-a552-4ce3-820a-14aae29f7536.svg">
 
 ### **Note**:
 - The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
