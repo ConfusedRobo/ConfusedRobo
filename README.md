@@ -6,7 +6,6 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 - 🔭 I’m currently working on [jdbc-automation-library](https://github.com/ConfusedRobo/emotions-love-jdbcsql-automation)
 - 🌱 I’m currently learning Python and JSP/JPA
 - 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
-
 <br />
 <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical" />
 <img width="38.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
