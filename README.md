@@ -8,11 +8,13 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 - 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
 
 <br />
-<p>
+<a src="https://github.com/ConfusedRobo/github-readme-stats">
 <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical" />
 <img width="38.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
-</p>
+</a>
+<a src="https://github.com/ConfusedRobo/github-readme-stats">
 <img width="70%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
+</a>
 <br/>
 
 <p>
