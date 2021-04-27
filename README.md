@@ -10,8 +10,8 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 <br />
 
 <p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
-  <img width=40% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463"/>
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
+  <img width=43.5% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical"/>
 </p>
 
 <p>
