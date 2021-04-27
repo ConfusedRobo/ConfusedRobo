@@ -11,7 +11,7 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 
 <p>
   <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
-  <img width=43.5% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical"/>
+  <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical"/>
 </p>
 
 <p>
