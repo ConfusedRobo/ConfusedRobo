@@ -15,7 +15,7 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
   <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
 </p>
 <p>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463)](https://git.io/streak-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463"/>
 </p>
 <p>
   <img width="43.6%" src="https://wakatime.com/share/@ConfusedRobo/65019ba1-34d9-45d4-a47b-e2edcfbcff72.svg">
