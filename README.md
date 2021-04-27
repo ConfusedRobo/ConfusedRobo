@@ -9,14 +9,16 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 
 <br />
 
-<img width="87.5%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
+<p>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical"/>
+  <img width=40% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463"/>
+</p>
+
 <p>
   <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical"/>
   <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical"/>
 </p>
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463"/>
-</p>
+
 <p>
   <img width="43.6%" src="https://wakatime.com/share/@ConfusedRobo/65019ba1-34d9-45d4-a47b-e2edcfbcff72.svg">
   <img width="43.6%"src="https://wakatime.com/share/@ConfusedRobo/c61e86ca-a552-4ce3-820a-14aae29f7536.svg">
