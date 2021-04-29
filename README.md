@@ -10,13 +10,13 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 <br />
 
 <p>
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true&bg_color=0A1625"/>
+  <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true"/>
 </p>
 
 <p>
-  <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true&bg_color=0A1625"/>
+  <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true&bg_color=0A1625"/>
 </p>
 
 <p>
@@ -27,7 +27,7 @@ Hey, there! I'm Confused Robo, a Java noobie (JK). Please, spare me.
 ---
 
 <p>
-  <img width="87.8%" src="https://activity-graph.herokuapp.com/graph?username=ConfusedRobo&bg_color=0D1117&color=F535AA&line=9AFEFF&point=C12267&hide_border=true"/>
+  <img width="87.8%" src="https://activity-graph.herokuapp.com/graph?username=ConfusedRobo&bg_color=0A1625&color=F535AA&line=9AFEFF&point=C12267&hide_border=true"/>
 </p>
 
 ### **Note**:
