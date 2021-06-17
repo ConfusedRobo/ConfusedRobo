@@ -3,7 +3,7 @@
 <br />
 Hey, there! I'm Confused Robo, a noob.
 
-- 🔭 I’m currently working on [jdbc-automation-library](https://github.com/ConfusedRobo/emotions-love-jdbcsql-automation)
+- 🔭 I’m currently working on [jdbc-automation-library](https://github.com/ConfusedRobo/ergaleio-thunderbolt-todocrud-studium)
 - 🌱 I’m currently learning Python and JSP/JPA
 - 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
 
