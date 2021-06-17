@@ -4,7 +4,7 @@
 Hey, there! I'm Confused Robo, a noob.
 
 - 🔭 I’m currently working on [studium-todo](https://github.com/ConfusedRobo/ergaleio-thunderbolt-todocrud-studium)
-- 🌱 I’m currently learning Python and JSP/JPA
+- 🌱 I’m currently learning Flask and JSP/JPA
 - 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
 
 <br />
