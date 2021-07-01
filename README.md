@@ -3,7 +3,8 @@
 ### &nbsp;&nbsp;Henlo! I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) 👋
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
-Hey, there! I'm Confused Robo, a noob.
+<br />
+__Hey, there! I'm Confused Robo, a noob.__
 
 🔭 I’m currently working on nothing :) <br />
 🌱 I’m currently learning Flask and JSP/JPA <br />
