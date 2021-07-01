@@ -5,7 +5,6 @@
 <br />
 <br />
 __Hey, there! I'm Confused Robo, a noob.__
-
 🔭 I’m currently working on nothing :) <br />
 🌱 I’m currently learning Flask and JSP/JPA <br />
 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues) <br />
