@@ -14,10 +14,14 @@ Hey, there! I'm Confused Robo, a noob.
   <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true"/>
 </p>
 
+---
+
 <p>
   <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true"/>
   <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true"/>
 </p>
+
+---
 
 <p>
   <img width="43.6%" src="https://wakatime.com/share/@ConfusedRobo/65019ba1-34d9-45d4-a47b-e2edcfbcff72.svg">
