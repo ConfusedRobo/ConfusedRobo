@@ -4,8 +4,10 @@
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
 <br />
+
 __Hey, there! I'm Confused Robo, a noob.__<br />
-🔭 I’m currently working on nothing :) <br />
+
+🔭 I’m currently working on nothing :)
 🌱 I’m currently learning Flask and JSP/JPA <br />
 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues) <br />
 
