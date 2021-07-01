@@ -1,11 +1,13 @@
-### Henlo! I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) 👋
+<div align="center">
+  
+### &nbsp;&nbsp;Henlo! I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) 👋
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
 Hey, there! I'm Confused Robo, a noob.
 
-- 🔭 I’m currently working on nothing :)
-- 🌱 I’m currently learning Flask and JSP/JPA
-- 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues)
+🔭 I’m currently working on nothing :) <br />
+🌱 I’m currently learning Flask and JSP/JPA <br />
+💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues) <br />
 
 <br />
 
@@ -33,10 +35,11 @@ Hey, there! I'm Confused Robo, a noob.
 <p>
   <img width="87.8%" src="https://activity-graph.herokuapp.com/graph?username=ConfusedRobo&bg_color=0A1625&color=F535AA&line=9AFEFF&point=C12267&hide_border=true"/>
 </p>
+</div>
 
 ### **Note**:
 - The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
-
 <br />
+
 
 (▀̿Ĺ̯▀̿ ̿)
