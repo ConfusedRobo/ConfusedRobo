@@ -7,7 +7,7 @@
 
 __Hey, there! I'm Confused Robo, a noob.__<br />
 
-🔭 I’m currently working on nothing :) <br />
+🔭 I’m currently working on Haskell and Discrete Maths :) <br />
 🌱 I’m currently learning Flask and JSP/JPA <br />
 💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues) <br />
 
