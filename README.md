@@ -9,7 +9,6 @@ __Hey, there! I'm Confused Robo, a noob.__<br />
 
 🔭 I’m currently working on [API wrapper for unsplash.com](https://github.com/ConfusedRobo/unsplash-api-wrapper) and [Design patterns](https://github.com/ConfusedRobo/design-patterns) :) <br />
 🌱 I’m currently learning Haskell, Lambda Calculi and Discrete Maths <br />
-💬 Ask me about anything [here](https://github.com/ConfusedRobo/ConfusedRobo/issues) <br />
 
 <br />
 
