@@ -1,46 +1,44 @@
 <div align="center">
-  
-### &nbsp;&nbsp;Henlo! I'm [Confused](https://confusedrobo.github.io/idiosync-portfolio/) 👋
+
+<h1>Hello! I'm <a href=""></a>Keym♔ker</h1>
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
 <br />
 
-__Hey, there! I'm Confused Robo, a noob.__<br />
+<p><b>Hey, there! I'm Confused Robo, a noob.</b></p><br />
 
-🔭 I’m currently working on [API wrapper for unsplash.com](https://github.com/ConfusedRobo/unsplash-api-wrapper) and [Design patterns](https://github.com/ConfusedRobo/design-patterns) :) <br />
-🌱 I’m currently learning Haskell, Lambda Calculi and Discrete Maths <br />
-
+<p>🔭 I’m currently working on <a href="https://github.com/heretickeymaker/unsplash-api-wrapper">API wrapper for unsplash.com</a> and <a href="https://github.com/heretickeymaker/design-patterns">Design patterns</a> :)</p>
+<p>🌱 I’m currently learning <a href="https://www.haskell.org/">Haskell</a></p>
+<br />
 <br />
 
 <p>
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true"/>
-  <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com?user=ConfusedRobo&theme=radical&hide_border=true"/>
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
+  <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com/?user=heretickeymaker&theme=radical&hide_border=true"/>
 </p>
 
----
+<hr />
 
 <p>
-  <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true"/>
-  <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ConfusedRobo&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
----
+<hr />
 
 <p>
-  <img width="43.6%" src="https://wakatime.com/share/@ConfusedRobo/65019ba1-34d9-45d4-a47b-e2edcfbcff72.svg">
-  <img width="43.6%"src="https://wakatime.com/share/@ConfusedRobo/c61e86ca-a552-4ce3-820a-14aae29f7536.svg">
-</p>
-
----
-
-<p>
-  <img width="87.8%" src="https://activity-graph.herokuapp.com/graph?username=ConfusedRobo&bg_color=0A1625&color=F535AA&line=9AFEFF&point=C12267&hide_border=true"/>
+  <img width="87.8%" src="https://activity-graph.herokuapp.com/graph?username=heretickeymaker&bg_color=0A1625&color=F535AA&line=9AFEFF&point=C12267&hide_border=true"/>
 </p>
 </div>
 
-### **Note**:
-- The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
+<h3>Note:</h3>
+<ul>
+<li>
+The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
+</li>
+</ul>
+
 <br />
 
 
-(▀̿Ĺ̯▀̿ ̿)
+<p align="center">(▀̿Ĺ̯▀̿ ̿)</p>
