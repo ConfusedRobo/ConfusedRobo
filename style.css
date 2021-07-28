@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+/*! Palette:  https://colorhunt.co/palette/dddddd22283130475ef05454*/
+
+body {
+    font-family: Lato, Helvetica, sans-serif;
+    background-color: #222831;
+    color: #DDDDDD;
+    padding: 2rem 4rem 5rem 4rem;
+}
+
+a {
+    text-decoration: none;
+    color: #F05454;
+}
+
+a:hover {
+    text-decoration: underline;
+}
