@@ -1,11 +1,11 @@
 <div align="center">
 
-<h1>Hello! I'm <a href="https://youtu.be/dQw4w9WgXcQ">ConfusedRobo</a></h1>
+<h1>Hello! I'm <a href="https://youtu.be/dQw4w9WgXcQ">Keym♔ker</a></h1>
 <a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
 <br />
 <br />
 
-<p><b>Hey, there! I'm Confused Robo, a noob.</b></p><br />
+<p><b>Hey, there! I'm Keymaker, the noob.</b></p><br />
 
 <p>🔭 I’m currently working on <a href="https://github.com/heretickeymaker/unsplash-api-wrapper">API wrapper for unsplash.com</a> and <a href="https://github.com/heretickeymaker/design-patterns">Design patterns</a> :)</p>
 <p>🌱 I’m currently learning <a href="https://www.haskell.org/">Haskell</a></p>
@@ -35,11 +35,28 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="SQLITE3" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"><br /><br />
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    <br/>
+    <br />
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+    <img src="https://badgen.net/badge/icon/haskell?icon=haskell&label&color=red" alt="HASKELL">
+</p>
+
+<h2>Testing Suites</h2>
+
+<p>
+    <img src="https://img.shields.io/badge/PyTest-C71A36.svg?style=for-the-badge&logo=pytest&logoColor=white" alt="PYTEST"/>
+    <img src="https://img.shields.io/badge/JUnit-%23F5792A.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUNIT5"/> 
+    <img src="https://img.shields.io/badge/mockito-%23F5792A.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="MOCKITO"/>
+</p>
+
+<h2>Databases</h2>
+
+<p>
+    <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="SQLITE3" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MARIADB">
 </p>
 
 <h2>Frameworks</h2>
@@ -48,13 +65,68 @@
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
-    <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=cachet&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
-    <img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white">
+    <br />
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
+
+<h2>Package Managers</h2>
+
+<p>  
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="MAVEN">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGIX">
+    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMAKE"/>
+    <img src="https://img.shields.io/badge/gradle-%23150458.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="GRADLE"/>
+    <img src="https://img.shields.io/badge/Anaconda-mB33F.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="ANACONDA"/>
+</p>
+
+<h2>Softwares</h2>
+
+<p>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="EXEL">
+    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PPT">
+    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="WORD">
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+    <br />
+    <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" alt="INDESIGN">
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="BLENDER">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="CANVA">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA">
+    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP">
+    <br />
+    <br />
+    <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" alt="ATOM">
+    <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLION">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CODEPEN">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="JUPYTER">
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="ECLIPSE">
+    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NETBEANS">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IDEA">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PYCHARM">
+    <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE">
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="SUBLIME">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM">
+    <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="REPLIT"/>
+</p>
+
+<h2>Version Controls</h2>
+
+<p>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH">
+</p>
+
+<h2>Deployed In</h2>
+
+<p>
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="HEROKU"/>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="NETLIFY"/>
+</p>
+
 <hr />
 
 <p>
