@@ -37,10 +37,7 @@
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-    <br/>
-    <br />
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-    <img src="https://badgen.net/badge/icon/haskell?icon=haskell&label&color=red" alt="HASKELL">
+    <img alt="HASKELL" src="https://img.shields.io/badge/Haskell-563D7C.svg?style=for-the-badge&logo=haskell&logoColor=white">
 </p>
 
 <h2>Testing Suites</h2>
@@ -110,6 +107,7 @@
     <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="SUBLIME">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM">
+    <img src="https://img.shields.io/badge/VIM-green.svg?style=for-the-badge&logo=neovim&logoColor=blue" alt="NEOVIM">
     <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="REPLIT"/>
 </p>
 
