@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="SUBLIME">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM">
-    <img src="https://img.shields.io/badge/VIM-green.svg?style=for-the-badge&logo=neovim&logoColor=blue" alt="NEOVIM">
+    <img src="https://img.shields.io/badge/NVIM-green.svg?style=for-the-badge&logo=neovim&logoColor=blue" alt="NEOVIM">
     <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="REPLIT"/>
 </p>
 
