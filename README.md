@@ -26,8 +26,9 @@
 
 <hr />
 
-<h2>Language Stack</h2>
+<h2>Skills Stack</h2>
 <div align="left">
+  <h3>Languages</h3>
   <p>
       <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
       <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -43,7 +44,7 @@
       <img alt="GROOVY" src="https://img.shields.io/badge/apachegroovy-grey?style=for-the-badge&logo=apachegroovy&logoColor=lightblue">
   </p>
 
-  <h2>Testing Suites</h2>
+  <h3>Testing Suites</h3>
 
   <p>
       <img src="https://img.shields.io/badge/PyTest-C71A36.svg?style=for-the-badge&logo=pytest&logoColor=white" alt="PYTEST"/>
@@ -51,7 +52,7 @@
       <img src="https://img.shields.io/badge/mockito-%23F5792A.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="MOCKITO"/>
   </p>
 
-  <h2>Databases</h2>
+  <h3>Databases</h3>
 
   <p>
       <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -59,7 +60,7 @@
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MARIADB">
   </p>
 
-  <h2>Frameworks</h2>
+  <h3>Frameworks</h3>
 
   <p>
       <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -70,7 +71,7 @@
       <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   </p>
 
-  <h2>Package Managers</h2>
+  <h3>Package Managers</h3>
 
   <p>  
       <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="MAVEN">
@@ -80,7 +81,7 @@
       <img src="https://img.shields.io/badge/Anaconda-mB33F.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="ANACONDA"/>
   </p>
 
-  <h2>Softwares</h2>
+  <h3>Softwares</h3>
 
   <p>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="EXEL">
@@ -114,14 +115,14 @@
       <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" alt="REPLIT"/>
   </p>
 
-  <h2>Version Controls</h2>
+  <h3>Version Controls</h3>
 
   <p>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH">
   </p>
 
-  <h2>Deployed In</h2>
+  <h3>Deployed In</h3>
 
   <p>
       <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="HEROKU"/>
