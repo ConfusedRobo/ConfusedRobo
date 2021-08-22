@@ -43,6 +43,7 @@
       <img alt="SML" src="https://img.shields.io/badge/standard%20ml%20new%20jersey-C71A36.svg?style=for-the-badge&logo=standardmlnewjersey&logoColor=lightgreen">
       <img alt="GROOVY" src="https://img.shields.io/badge/apachegroovy-grey?style=for-the-badge&logo=apachegroovy&logoColor=lightblue">
       <img alt="LISP" src="https://img.shields.io/badge/lisp%20scheme-black?style=for-the-badge&logo=lispscheme%2B%2B&logoColor=white">
+      <img alt="LISP" src="https://img.shields.io/badge/racket-black?style=for-the-badge&logo=racket%2B%2B&logoColor=white">
   </p>
 
   <h3>Testing Suites</h3>
