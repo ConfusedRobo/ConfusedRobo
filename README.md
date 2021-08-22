@@ -40,6 +40,7 @@
       <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
       <img alt="HASKELL" src="https://img.shields.io/badge/Haskell-563D7C.svg?style=for-the-badge&logo=haskell&logoColor=white">
       <img alt="SML" src="https://img.shields.io/badge/standardmlnj-563D7C.svg?style=for-the-badge&logo=standardml&logoColor=white">
+      <img alt="GROOVY" src="https://img.shields.io/badge/apachegroovy-00599C?style=for-the-badge&logo=apachegroovy&logoColor=grey">
   </p>
 
   <h2>Testing Suites</h2>
