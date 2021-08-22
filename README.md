@@ -39,7 +39,7 @@
       <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
       <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
       <img alt="HASKELL" src="https://img.shields.io/badge/Haskell-563D7C.svg?style=for-the-badge&logo=haskell&logoColor=white">
-      <img alt="SML" src="https://img.shields.io/badge/standardmlnj-563D7C.svg?style=for-the-badge&logo=standardml&logoColor=white">
+      <img alt="SML" src="https://img.shields.io/badge/standardmachinelanguagenewjersey-red.svg?style=for-the-badge&logo=standardmachinelanguagenewjersey&logoColor=lightgreen">
       <img alt="GROOVY" src="https://img.shields.io/badge/apachegroovy-grey?style=for-the-badge&logo=apachegroovy&logoColor=lightblue">
   </p>
 
