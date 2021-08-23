@@ -144,5 +144,5 @@ The above statistics doesn't signify my skill level. It's just as mentioned befo
 
 <br />
 
-
+<div align="center"><img src="./qrcode_github.com.png" /></div>
 <p align="center">(▀̿Ĺ̯▀̿ ̿)</p>
