@@ -42,7 +42,7 @@
       <img alt="HASKELL" src="https://img.shields.io/badge/Haskell-563D7C.svg?style=for-the-badge&logo=haskell&logoColor=white">
       <img alt="SML" src="https://img.shields.io/badge/standard%20ml%20new%20jersey-C71A36.svg?style=for-the-badge&logo=standard-ml&logoColor=lightgreen">
       <img alt="GROOVY" src="https://img.shields.io/badge/apachegroovy-grey?style=for-the-badge&logo=apachegroovy&logoColor=lightblue">
-      <img alt="RACKET" src="https://img.shields.io/badge/racket-black?style=for-the-badge&logo=racket%2B%2B&logoColor=white">
+      <img alt="RACKET" src="https://img.shields.io/badge/racket-black?style=for-the-badge&logo=racket&logoColor=white">
   </p>
 
   <h3>Testing Suites</h3>
