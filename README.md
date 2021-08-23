@@ -3,7 +3,7 @@
 <div align="left">
   <h1>Hello! I'm <a href="https://youtu.be/dQw4w9WgXcQ">Keym♔ker</a></h1>
   <p>🔭 I’m currently working on <a href="https://github.com/heretickeymaker/unsplash-api-wrapper">API wrapper for unsplash.com</a> and <a href="https://github.com/heretickeymaker/design-patterns">Design patterns</a> :)</p>
-  <p>🌱 I’m currently learning <a href="https://www.haskell.org/">Haskell</a></p>
+  <p>🌱 I’m currently learning <a href="https://www.haskell.org/">Haskell</a> and <a href="http://smlnj.org/">Standard ML</a></p>
 </div>
 
 <br />
