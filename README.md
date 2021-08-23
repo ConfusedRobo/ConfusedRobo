@@ -1,14 +1,12 @@
 <div align="center">
 
-<h1>Hello! I'm <a href="https://youtu.be/dQw4w9WgXcQ">Keym♔ker</a></h1>
-<a href="mailto:noname.confused.biswas@gmail.com"><img src="email.png"></a>
-<br />
-<br />
+<div align="left">
+  <h1>Hello! I'm <a href="https://youtu.be/dQw4w9WgXcQ">Keym♔ker</a></h1>
+  <p><b>Hey, there! I'm Keymaker, the noob.</b></p><br />
+  <p>🔭 I’m currently working on <a href="https://github.com/heretickeymaker/unsplash-api-wrapper">API wrapper for unsplash.com</a> and <a href="https://github.com/heretickeymaker/design-patterns">Design patterns</a> :)</p>
+  <p>🌱 I’m currently learning <a href="https://www.haskell.org/">Haskell</a></p>
+</div>
 
-<p><b>Hey, there! I'm Keymaker, the noob.</b></p><br />
-
-<p>🔭 I’m currently working on <a href="https://github.com/heretickeymaker/unsplash-api-wrapper">API wrapper for unsplash.com</a> and <a href="https://github.com/heretickeymaker/design-patterns">Design patterns</a> :)</p>
-<p>🌱 I’m currently learning <a href="https://www.haskell.org/">Haskell</a></p>
 <br />
 <br />
 
