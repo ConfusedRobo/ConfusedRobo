@@ -1,25 +1,29 @@
 <div align="center">
 
 <div align="left">
-  <div><img src="./banner.jpg" /></div><br />
-  
-  <img src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="100%" />
+  <div><img src="./banner.png" /></div><br />
 </div>
 
 <br />
+
+<a><img align="left" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" /></a>
+
+<h2>Profile</h2>
+<p>Hey, there! I'm the <a href="https://youtu.be/dQw4w9WgXcQ">Keymaker</a>. A passionate developer from India.</p>
+
 <br />
 
-<p>
+<div align="center">
   <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
   <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com/?user=heretickeymaker&theme=radical&hide_border=true"/>
-</p>
+</div>
 
 <hr />
 
-<p>
+<div>
   <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
   <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+</div>
 
 <hr />
 
@@ -141,3 +145,5 @@
 The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
 </li>
 </ul>
+
+</div>
