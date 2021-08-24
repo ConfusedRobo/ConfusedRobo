@@ -1,6 +1,8 @@
 <div align="center">
 
 <div align="left">
+  <div><img src="./banner.jpg" /></div>
+  
   <a href="https://discord.com/users/784162317079281685"><img src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="" /></a>
   
   <p>🔭 I’m currently working on <a href="https://github.com/heretickeymaker/unsplash-api-wrapper">API wrapper for unsplash.com</a> and <a href="https://github.com/heretickeymaker/design-patterns">Design patterns</a> :)</p>
