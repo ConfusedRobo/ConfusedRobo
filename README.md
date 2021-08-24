@@ -3,7 +3,7 @@
 <div align="left">
   <div><img src="./banner.jpg" /></div><br />
   
-  <img src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" style="width: 100%" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="100%" />
 </div>
 
 <br />
