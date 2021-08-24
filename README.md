@@ -7,7 +7,7 @@
 <br />
 
 <div>
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" />
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="./grett.png" alt="greet" width="40%" />
 </div>
 
@@ -16,14 +16,14 @@
 
 <div align="center">
   <br>
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com/?user=heretickeymaker&theme=radical&hide_border=true"/>
 </div>
 
 <hr />
 
 <div>
-  <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="38.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48.7%" src="https://github-readme-stats.vercel.app/api/wakatime?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
 </div>
 
