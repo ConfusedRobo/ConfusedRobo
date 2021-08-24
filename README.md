@@ -142,8 +142,3 @@
 The above statistics doesn't signify my skill level. It's just as mentioned before, i.e. the above data is a visual representation of my github account activity.
 </li>
 </ul>
-
-<br />
-
-<div align="center"><img src="./qrcode_github.com.png" /></div>
-<p align="center">(▀̿Ĺ̯▀̿ ̿)</p>
