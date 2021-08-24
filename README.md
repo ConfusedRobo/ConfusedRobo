@@ -9,6 +9,9 @@
 <a><img align="left" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" /></a>
 
 <h2><b>Welcome!</b></h2>
+
+<hr />
+
 <Look>😭Hey, there! I'm the <a href="https://youtu.be/dQw4w9WgXcQ">Keymaker</a>. A passionate developer and student from India. Look around and browse my repos. Drop a star if you like any. Thanks!</p>
 
 <br />
