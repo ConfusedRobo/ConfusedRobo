@@ -8,7 +8,7 @@
 
 <div>
   <img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="./grett.png" alt="greet" width="40%" />
+  <img align="center" src="./intro.png" alt="greet" width="40%" />
 </div>
 
 <br />
