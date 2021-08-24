@@ -6,20 +6,16 @@
 
 <br />
 
-<a><img align="left" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" /></a>
+<div>
+  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/784162317079281685" alt="discord" width="50%" />
+  <img align="center" src="./grett.png" alt="greet" width="40%" />
+</div>
 
-<h2><b>Welcome!</b></h2>
-
-<hr />
-
-<Look>😭Hey, there! I'm the <a href="https://youtu.be/dQw4w9WgXcQ">Keymaker</a>. A passionate developer and student from India. Look around and browse my repos. Drop a star if you like any. Thanks!</p>
-
-<br />
-<br />
 <br />
 <br />
 
 <div align="center">
+  <br>
   <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>
   <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com/?user=heretickeymaker&theme=radical&hide_border=true"/>
 </div>
