@@ -15,7 +15,7 @@
 
 <div align="center">
   <br>
-  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=heretickeymaker&show_icons=true&theme=radical&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=<>&show_icons=true&theme=radical&hide_border=true"/>&nbsp;&nbsp;&nbsp;
   <img width=43.4% src="http://github-readme-streak-stats.herokuapp.com/?user=heretickeymaker&theme=radical&hide_border=true"/>
 </div>
 
