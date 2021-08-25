@@ -73,16 +73,6 @@
       <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   </p>
-
-  <h3>Package Managers</h3>
-
-  <p>  
-      <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="MAVEN">
-      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="NGIX">
-      <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMAKE"/>
-      <img src="https://img.shields.io/badge/gradle-%23150458.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="GRADLE"/>
-      <img src="https://img.shields.io/badge/Anaconda-mB33F.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="ANACONDA"/>
-  </p>
   
   <h3>Deployed In</h3>
 
