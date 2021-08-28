@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="left">
-  <div><img src="./banner.jpg" /></div><br />
+  <div><img src="./banner.gif" /></div><br />
 </div>
 
 <br />
